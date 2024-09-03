@@ -1,0 +1,21 @@
+.workbench {
+	.target {
+		.target-item {
+			min-height: 130px;
+			padding: 20px;
+			background-color: #ffffff;
+			.title {
+				margin-bottom: 8px;
+			}
+			.cotent {
+				font-size: 28px;
+			}
+		}
+		.target-operateItem {
+			min-height: 130px;
+			background-color: #ffffff;
+			.title {
+			}
+		}
+	}
+}

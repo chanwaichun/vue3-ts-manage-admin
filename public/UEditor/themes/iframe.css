@@ -1,0 +1,18 @@
+/*可以在这里添加你自己的css*/
+.uploadLoading_XIUMI {
+	position: relative;
+	opacity: 0.5;
+
+}
+
+ .uploadLoading-box {
+	background: url('./default/images/loading.gif') no-repeat center center transparent;
+	height: 22px;
+	width: 22px;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
